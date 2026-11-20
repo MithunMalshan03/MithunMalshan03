@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**MithunMalshan03/MithunMalshan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mithun Malshan 👋
 
-Here are some ideas to get you started:
+🎓 Data Science Undergraduate at SLIIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a third-year BSc (Hons) Information Technology undergraduate
+specializing in Data Science at the Sri Lanka Institute of
+Information Technology (SLIIT).
+
+I'm interested in Data Science, Data Analytics, Machine Learning,
+and AI. Through my academic coursework and projects, I'm
+developing practical skills in data analysis, statistical
+modelling, and machine learning.
+
+## Technical Skills
+
+- **Languages:** Python, R, SQL, Java, JavaScript
+- **Machine Learning:** Scikit-learn, Data Preprocessing, EDA
+- **Databases & BI:** SQL Server, MySQL, Power BI
+- **Tools:** Jupyter Notebook, RStudio, VS Code, Git
+
+## Current Focus
+
+- Building and improving Data Science projects
+- Strengthening machine learning and analytics skills
+- Exploring practical applications of AI
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mithun-malshan-52b4a6345
+- Email: mithunmalshan03@gmail.com
+
+
+
